@@ -1,8 +1,6 @@
 # Logistic-Regression
 The Logic of Logistic Regression: A Tutorial
 
-A word to the reader:
-
 This might just be the most important lesson in machine learning you will ever see. Why? Because in the process of learning about Logistic Regression, you will encounter several powerful techniques and ideas that are the backbone of the entire field of AI (artificial intelligence). One of these ideas is the method of Gradient Descent -- which is the key to all of deep learning with neural networks.
 
 As you progress along your machine learning journey, you'll notice that ideas you encountered in this lesson will recur again and again. Even if you don't completely grasp all the ideas today, you'll get a solid introduction, and your understanding will grow with time. These ideas will become familiar and cherished tools that you will use to crack open one machine learning problem afer another.
